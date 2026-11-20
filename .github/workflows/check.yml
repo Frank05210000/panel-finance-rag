@@ -1,0 +1,24 @@
+name: Research data and retrieval checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.10', '3.13']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '${{ matrix.python }}'
+      - name: Verify snapshot and retrieval
+        run: |
+          python rag.py check
+          python -W error::ResourceWarning -m unittest discover -s tests -v

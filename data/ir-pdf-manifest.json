@@ -1,0 +1,423 @@
+[
+  {
+    "path": "友達/auo_2024Q4/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250213M001.pdf",
+    "pages": 25,
+    "bytes": 3452993,
+    "sha256": "00b56610cd0ff714f072c60eccfd93b83c11c6d325b643c873c40be332e49a67"
+  },
+  {
+    "path": "友達/auo_2024Q4/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250213E001.pdf",
+    "pages": 25,
+    "bytes": 3520425,
+    "sha256": "26f0582017f3150ad130a42f3fdff9b83f203cb7a10ae04624a8efe9ec6412b2"
+  },
+  {
+    "path": "友達/auo_2025Q1/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250430M001.pdf",
+    "pages": 18,
+    "bytes": 3048931,
+    "sha256": "cfb71bca462ad2f4b0a13495f45cb02b3fe7c57669a39a5ad70ae8c3d6bd491d"
+  },
+  {
+    "path": "友達/auo_2025Q1/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250430E001.pdf",
+    "pages": 18,
+    "bytes": 3157958,
+    "sha256": "637d4561d1758f243dbf9e6954232222afa168c8399bb807c78a2dfdfbc3c76f"
+  },
+  {
+    "path": "友達/auo_2025Q2/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250731M001.pdf",
+    "pages": 15,
+    "bytes": 1907959,
+    "sha256": "d0c3e5345e64e674fdf98532ff736cbf09b856f8acfa30c15310738be0372246"
+  },
+  {
+    "path": "友達/auo_2025Q2/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250731E001.pdf",
+    "pages": 15,
+    "bytes": 2042721,
+    "sha256": "c261463141c3fb3b2c03e1e4259b3b1009da77a9268712938c0b315233a0c85a"
+  },
+  {
+    "path": "友達/auo_2025Q3/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920251030M001.pdf",
+    "pages": 14,
+    "bytes": 1796450,
+    "sha256": "cc69592fe022eff06b7f660a5bcfc92d3ac265726fcdc1c879162ae223ba6e50"
+  },
+  {
+    "path": "友達/auo_2025Q3/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=240920251030E001.pdf",
+    "pages": 14,
+    "bytes": 1997603,
+    "sha256": "77af6ac8cf4fba974749a2729991456f0dd5e307fcb80dd1abebf79f25048abc"
+  },
+  {
+    "path": "友達/auo_2025-12-10/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920251030M001.pdf",
+    "pages": 14,
+    "bytes": 1796450,
+    "sha256": "cc69592fe022eff06b7f660a5bcfc92d3ac265726fcdc1c879162ae223ba6e50"
+  },
+  {
+    "path": "友達/auo_2025-12-10/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920251030E001.pdf",
+    "pages": 14,
+    "bytes": 1997603,
+    "sha256": "77af6ac8cf4fba974749a2729991456f0dd5e307fcb80dd1abebf79f25048abc"
+  },
+  {
+    "path": "友達/auo_2025Q4/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260210M001.pdf",
+    "pages": 32,
+    "bytes": 6228524,
+    "sha256": "a81094073dbdb49f3bae8e14d28e00649815c35be8585fa41a43c50d3caf85cd"
+  },
+  {
+    "path": "友達/auo_2025Q4/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=240920260210E001.pdf",
+    "pages": 32,
+    "bytes": 6414577,
+    "sha256": "94ec00c0dd8e95362388093f49ec779a8ebaad6cc7ceff39a77584e2461f3715"
+  },
+  {
+    "path": "友達/auo_2026-03-27/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260210M001.pdf",
+    "pages": 32,
+    "bytes": 6228524,
+    "sha256": "a81094073dbdb49f3bae8e14d28e00649815c35be8585fa41a43c50d3caf85cd"
+  },
+  {
+    "path": "友達/auo_2026-03-27/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260210E001.pdf",
+    "pages": 32,
+    "bytes": 6460231,
+    "sha256": "99611dddda37607ef2ec27b52133cf4c37b60e8e385c2b725976fdadb1c63804"
+  },
+  {
+    "path": "友達/auo_2026Q1/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260430M001.pdf",
+    "pages": 16,
+    "bytes": 2249132,
+    "sha256": "cfa4aa34205ae7b179a137780198791181d17900069a79ab460bcf6cb659b657"
+  },
+  {
+    "path": "友達/auo_2026Q1/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=240920260430E001.pdf",
+    "pages": 16,
+    "bytes": 2350205,
+    "sha256": "fd9e52161c3c7835261d9187a9a36b2a19955668f9af760ae727a75a7fc31719"
+  },
+  {
+    "path": "友達/auo_2026Q2/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260730M001.pdf",
+    "pages": 15,
+    "bytes": 1960981,
+    "sha256": "ebeacb67233c64b65808a9ae020894d9d37a4ddc8f7dcda72bcf9c2997dc6d97"
+  },
+  {
+    "path": "友達/auo_2026Q2/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=240920260730E001.pdf",
+    "pages": 15,
+    "bytes": 1978871,
+    "sha256": "5dc95b6da2c72279258bf553bb06ec9aaeab85b1a4a8db96c6627d10f7384948"
+  },
+  {
+    "path": "友達/auo_2026Q3/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920261029M001.pdf",
+    "pages": 15,
+    "bytes": 1969830,
+    "sha256": "5da6c169e1b11a289db95664d0a959d18d82166974a78f2cf99d756823a36719"
+  },
+  {
+    "path": "友達/auo_2026Q3/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=240920261029E001.pdf",
+    "pages": 15,
+    "bytes": 2185956,
+    "sha256": "27216a49d9885b8bc6a56c2d16dd704c5003c8f971553e32225db98c60edc99b"
+  },
+  {
+    "path": "群創/innolux_2025-03-14/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=348120250314M001.pdf",
+    "pages": 26,
+    "bytes": 3332697,
+    "sha256": "396f73c8a3c40c4f76d33bac45e75a91b296259eca3e2b732a95000e1011c4eb"
+  },
+  {
+    "path": "群創/innolux_2025-03-14/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250314E001.pdf",
+    "pages": 26,
+    "bytes": 3289520,
+    "sha256": "7627a0c6c45395c4a827c7283d1da193d6e348f8c2ce22ddf88fe2fc384683d4"
+  },
+  {
+    "path": "群創/innolux_2025-04-01/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250314M001.pdf",
+    "pages": 26,
+    "bytes": 3332697,
+    "sha256": "396f73c8a3c40c4f76d33bac45e75a91b296259eca3e2b732a95000e1011c4eb"
+  },
+  {
+    "path": "群創/innolux_2025-04-01/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250314E001.pdf",
+    "pages": 26,
+    "bytes": 3289520,
+    "sha256": "7627a0c6c45395c4a827c7283d1da193d6e348f8c2ce22ddf88fe2fc384683d4"
+  },
+  {
+    "path": "群創/innolux_2025-08-01/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=348120250801M001.pdf",
+    "pages": 20,
+    "bytes": 2703526,
+    "sha256": "f69ba9653daad0afbff62959deebfef8bc35212e2af67c7977bd0c13dcd3e33f"
+  },
+  {
+    "path": "群創/innolux_2025-08-01/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250801E001.pdf",
+    "pages": 20,
+    "bytes": 3783028,
+    "sha256": "8e87c34c0247a2a436f0da0d94c2b0c39cc8c186cc57567e39bdd9543f97a8d0"
+  },
+  {
+    "path": "群創/innolux_2026-03-12/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=348120260312M001.pdf",
+    "pages": 19,
+    "bytes": 2881267,
+    "sha256": "c1213467c0d96707edf7d7818e1071b6bbe82338b81e55f7d278290e2dda19fc"
+  },
+  {
+    "path": "群創/innolux_2026-03-12/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260312E001.pdf",
+    "pages": 19,
+    "bytes": 2546657,
+    "sha256": "3915eb431b1b3adc7a5e4428d062a0f6f8eb7b76974500012690dd39a676dac8"
+  },
+  {
+    "path": "群創/innolux_2026-03-27/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260312M001.pdf",
+    "pages": 19,
+    "bytes": 2881267,
+    "sha256": "c1213467c0d96707edf7d7818e1071b6bbe82338b81e55f7d278290e2dda19fc"
+  },
+  {
+    "path": "群創/innolux_2026-03-27/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260312E001.pdf",
+    "pages": 19,
+    "bytes": 2546657,
+    "sha256": "3915eb431b1b3adc7a5e4428d062a0f6f8eb7b76974500012690dd39a676dac8"
+  },
+  {
+    "path": "群創/innolux_2026-08-18/簡報_CN.pdf",
+    "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&functionName=t100sb02_1&fileName=348120260818M001.pdf",
+    "pages": 18,
+    "bytes": 2403384,
+    "sha256": "0f15b03b290b1701bb05c5bf4e3b73111ef86ffefc852a634184a57f2cba6e4e"
+  },
+  {
+    "path": "群創/innolux_2026-08-18/簡報_EN.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260818E001.pdf",
+    "pages": 18,
+    "bytes": 2283760,
+    "sha256": "6514e4dc087fd53f33e7314baacd95895e474404049340a7aaa1b736ded7fda7"
+  },
+  {
+    "path": "補充簡報/3481/348120260818M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260818M001.pdf",
+    "pages": 18,
+    "bytes": 2403384,
+    "sha256": "0f15b03b290b1701bb05c5bf4e3b73111ef86ffefc852a634184a57f2cba6e4e"
+  },
+  {
+    "path": "補充簡報/3481/348120260818E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260818E001.pdf",
+    "pages": 18,
+    "bytes": 2283760,
+    "sha256": "6514e4dc087fd53f33e7314baacd95895e474404049340a7aaa1b736ded7fda7"
+  },
+  {
+    "path": "補充簡報/3481/348120260312M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260312M001.pdf",
+    "pages": 19,
+    "bytes": 2881267,
+    "sha256": "c1213467c0d96707edf7d7818e1071b6bbe82338b81e55f7d278290e2dda19fc"
+  },
+  {
+    "path": "補充簡報/3481/348120260312E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120260312E001.pdf",
+    "pages": 19,
+    "bytes": 2546657,
+    "sha256": "3915eb431b1b3adc7a5e4428d062a0f6f8eb7b76974500012690dd39a676dac8"
+  },
+  {
+    "path": "補充簡報/3481/348120250801M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250801M001.pdf",
+    "pages": 20,
+    "bytes": 2703526,
+    "sha256": "f69ba9653daad0afbff62959deebfef8bc35212e2af67c7977bd0c13dcd3e33f"
+  },
+  {
+    "path": "補充簡報/3481/348120250801E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250801E001.pdf",
+    "pages": 20,
+    "bytes": 3783028,
+    "sha256": "8e87c34c0247a2a436f0da0d94c2b0c39cc8c186cc57567e39bdd9543f97a8d0"
+  },
+  {
+    "path": "補充簡報/3481/348120250314M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250314M001.pdf",
+    "pages": 26,
+    "bytes": 3332697,
+    "sha256": "396f73c8a3c40c4f76d33bac45e75a91b296259eca3e2b732a95000e1011c4eb"
+  },
+  {
+    "path": "補充簡報/3481/348120250314E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120250314E001.pdf",
+    "pages": 26,
+    "bytes": 3289520,
+    "sha256": "7627a0c6c45395c4a827c7283d1da193d6e348f8c2ce22ddf88fe2fc384683d4"
+  },
+  {
+    "path": "補充簡報/3481/348120241119M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120241119M001.pdf",
+    "pages": 19,
+    "bytes": 3751438,
+    "sha256": "1524414b4031076b12a10f385c591286591c27462fc965bc8d37045a4aac18ec"
+  },
+  {
+    "path": "補充簡報/3481/348120241119E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/348120241119E001.pdf",
+    "pages": 19,
+    "bytes": 3833855,
+    "sha256": "a91d63412e119e20b5d5a483cdd448f89d82a8de209332f2656407a6487913f2"
+  },
+  {
+    "path": "補充簡報/2409/240920261029M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920261029M001.pdf",
+    "pages": 15,
+    "bytes": 1969830,
+    "sha256": "5da6c169e1b11a289db95664d0a959d18d82166974a78f2cf99d756823a36719",
+    "note": "同一原始URL已下載，複用通過驗證的檔案"
+  },
+  {
+    "path": "補充簡報/2409/240920261029E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920261029E001.pdf",
+    "pages": 15,
+    "bytes": 2185956,
+    "sha256": "27216a49d9885b8bc6a56c2d16dd704c5003c8f971553e32225db98c60edc99b"
+  },
+  {
+    "path": "補充簡報/2409/240920260730M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260730M001.pdf",
+    "pages": 15,
+    "bytes": 1960981,
+    "sha256": "ebeacb67233c64b65808a9ae020894d9d37a4ddc8f7dcda72bcf9c2997dc6d97"
+  },
+  {
+    "path": "補充簡報/2409/240920260730E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260730E001.pdf",
+    "pages": 15,
+    "bytes": 1978871,
+    "sha256": "5dc95b6da2c72279258bf553bb06ec9aaeab85b1a4a8db96c6627d10f7384948"
+  },
+  {
+    "path": "補充簡報/2409/240920260430M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260430M001.pdf",
+    "pages": 16,
+    "bytes": 2249132,
+    "sha256": "cfa4aa34205ae7b179a137780198791181d17900069a79ab460bcf6cb659b657"
+  },
+  {
+    "path": "補充簡報/2409/240920260430E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260430E001.pdf",
+    "pages": 16,
+    "bytes": 2350205,
+    "sha256": "fd9e52161c3c7835261d9187a9a36b2a19955668f9af760ae727a75a7fc31719"
+  },
+  {
+    "path": "補充簡報/2409/240920260210M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260210M001.pdf",
+    "pages": 32,
+    "bytes": 6228524,
+    "sha256": "a81094073dbdb49f3bae8e14d28e00649815c35be8585fa41a43c50d3caf85cd"
+  },
+  {
+    "path": "補充簡報/2409/240920260210E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920260210E001.pdf",
+    "pages": 32,
+    "bytes": 6460231,
+    "sha256": "99611dddda37607ef2ec27b52133cf4c37b60e8e385c2b725976fdadb1c63804"
+  },
+  {
+    "path": "補充簡報/2409/240920251030M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920251030M001.pdf",
+    "pages": 14,
+    "bytes": 1796450,
+    "sha256": "cc69592fe022eff06b7f660a5bcfc92d3ac265726fcdc1c879162ae223ba6e50"
+  },
+  {
+    "path": "補充簡報/2409/240920251030E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920251030E001.pdf",
+    "pages": 14,
+    "bytes": 1997603,
+    "sha256": "77af6ac8cf4fba974749a2729991456f0dd5e307fcb80dd1abebf79f25048abc"
+  },
+  {
+    "path": "補充簡報/2409/240920250731M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250731M001.pdf",
+    "pages": 15,
+    "bytes": 1907959,
+    "sha256": "d0c3e5345e64e674fdf98532ff736cbf09b856f8acfa30c15310738be0372246"
+  },
+  {
+    "path": "補充簡報/2409/240920250731E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250731E001.pdf",
+    "pages": 15,
+    "bytes": 2042721,
+    "sha256": "c261463141c3fb3b2c03e1e4259b3b1009da77a9268712938c0b315233a0c85a"
+  },
+  {
+    "path": "補充簡報/2409/240920250430M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250430M001.pdf",
+    "pages": 18,
+    "bytes": 3048931,
+    "sha256": "cfb71bca462ad2f4b0a13495f45cb02b3fe7c57669a39a5ad70ae8c3d6bd491d"
+  },
+  {
+    "path": "補充簡報/2409/240920250430E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250430E001.pdf",
+    "pages": 18,
+    "bytes": 3157958,
+    "sha256": "637d4561d1758f243dbf9e6954232222afa168c8399bb807c78a2dfdfbc3c76f"
+  },
+  {
+    "path": "補充簡報/2409/240920250213M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250213M001.pdf",
+    "pages": 25,
+    "bytes": 3452993,
+    "sha256": "00b56610cd0ff714f072c60eccfd93b83c11c6d325b643c873c40be332e49a67"
+  },
+  {
+    "path": "補充簡報/2409/240920250213E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920250213E001.pdf",
+    "pages": 25,
+    "bytes": 3520425,
+    "sha256": "26f0582017f3150ad130a42f3fdff9b83f203cb7a10ae04624a8efe9ec6412b2"
+  },
+  {
+    "path": "補充簡報/2409/240920241031M001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920241031M001.pdf",
+    "pages": 13,
+    "bytes": 1809067,
+    "sha256": "55b2c4418d82aa2ab32072a52bb2963700419f3dd3a27e9f089b66966e0b2978"
+  },
+  {
+    "path": "補充簡報/2409/240920241031E001.pdf",
+    "url": "https://mopsov.twse.com.tw/nas/STR/240920241031E001.pdf",
+    "pages": 13,
+    "bytes": 1912134,
+    "sha256": "04b0b98c05b7d05ce29155e95a599324918e71409cebd827ddf74c53efa54ead"
+  }
+]
